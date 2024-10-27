@@ -19,7 +19,9 @@ WaslCom is a comprehensive delivery app that makes ordering food, groceries, and
   <img src="https://github.com/user-attachments/assets/def8270b-ccf0-41d0-b511-1b1c417d9fe2" alt="Home (3)"/>
   <img src="https://github.com/user-attachments/assets/7847677d-e045-4356-b7d5-6bf3d308c84e" alt="Home (3)"/>
 </div>
+
 ![Home (4)](https://github.com/user-attachments/assets/cbc21d11-097c-40f7-b6f6-504256a1ad6e)
+
 ![4 (1)](https://github.com/user-attachments/assets/976010e4-37c6-4d2d-a51c-bbfcc7d791ca)
 
 ## Explanatory video
