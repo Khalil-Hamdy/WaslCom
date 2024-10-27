@@ -12,10 +12,13 @@ WaslCom is a comprehensive delivery app that makes ordering food, groceries, and
 
 -Multiple Payment Options: Flexible payment options including cash on delivery, credit cards, and digital wallets.
 ## Application images
-![](https://github.com/user-attachments/assets/d470fd1c-aa6b-4347-a731-2e64fe427575)
-![](https://github.com/user-attachments/assets/28a01e34-d7ff-416f-9574-69f3fe560897)
-![](https://github.com/user-attachments/assets/def8270b-ccf0-41d0-b511-1b1c417d9fe2)
-![](https://github.com/user-attachments/assets/7847677d-e045-4356-b7d5-6bf3d308c84e)
+<div style="display: flex; justify-content: space-around;">
+  
+  <img src="https://github.com/user-attachments/assets/d470fd1c-aa6b-4347-a731-2e64fe427575" alt="Home (1)"/>
+  <img src="https://github.com/user-attachments/assets/28a01e34-d7ff-416f-9574-69f3fe560897" alt="Home (2)"/>
+  <img src="https://github.com/user-attachments/assets/def8270b-ccf0-41d0-b511-1b1c417d9fe2" alt="Home (3)"/>
+  <img src="https://github.com/user-attachments/assets/7847677d-e045-4356-b7d5-6bf3d308c84e" alt="Home (3)"/>
+</div>
 
 ## Explanatory video
 https://github.com/user-attachments/assets/f2680027-8d42-468b-85eb-2e0abf2354f1
