@@ -30,6 +30,8 @@ https://github.com/user-attachments/assets/f2680027-8d42-468b-85eb-2e0abf2354f1
 
 -Firebase Services: Authentication, real-time database, and push notifications to enhance user experience and engagement.
 
+-Google Maps API: For location tracking, order mapping, and optimized delivery routes
+
 -Coil: Image loading library optimized for Kotlin, enabling fast and smooth image rendering.
 
 -MVVM Architecture: Clean architecture pattern that promotes testability and separation of concerns.
