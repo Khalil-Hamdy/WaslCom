@@ -14,18 +14,19 @@ WaslCom is a comprehensive delivery app that makes ordering food, groceries, and
 ## Application images
 <div style="display: flex; justify-content: space-around;">
   
-  <img src="https://github.com/user-attachments/assets/d470fd1c-aa6b-4347-a731-2e64fe427575" alt="Home (1)"/>
-  <img src="https://github.com/user-attachments/assets/28a01e34-d7ff-416f-9574-69f3fe560897" alt="Home (2)"/>
-  <img src="https://github.com/user-attachments/assets/def8270b-ccf0-41d0-b511-1b1c417d9fe2" alt="Home (3)"/>
-  <img src="https://github.com/user-attachments/assets/7847677d-e045-4356-b7d5-6bf3d308c84e" alt="Home (3)"/>
+  <img src="https://github.com/user-attachments/assets/efa0be19-e57f-4299-a11a-10c05db44fc0" alt="Home (1)"/>
+  <img src="https://github.com/user-attachments/assets/f8bd3b66-57cd-42bb-b3c2-0f89d12a5d83" alt="Home (2)"/>
+  <img src="https://github.com/user-attachments/assets/8085d7a2-4127-4275-891b-213e513ac665" alt="Home (3)"/>
+  <img src="https://github.com/user-attachments/assets/4544a470-b18b-4a03-9b75-444a5d076f76" alt="Home (3)"/>
 </div>
 
-![Home (4)](https://github.com/user-attachments/assets/cbc21d11-097c-40f7-b6f6-504256a1ad6e)
 
-![4 (1)](https://github.com/user-attachments/assets/976010e4-37c6-4d2d-a51c-bbfcc7d791ca)
 
 ## Explanatory video
-https://github.com/user-attachments/assets/f2680027-8d42-468b-85eb-2e0abf2354f1
+
+
+https://github.com/user-attachments/assets/4ee31f70-4b6b-40ed-9332-f7c60e5ff358
+
 
 ## Technologies Used in the HC App:
 
